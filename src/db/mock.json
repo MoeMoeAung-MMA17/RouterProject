@@ -1,0 +1,97 @@
+{
+  "book": [
+    {
+      "id": "1",
+      "book": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "slug": "catcher-in-the-rye",
+      "image": "https://media.istockphoto.com/id/1633541037/photo/reading-on-vacation.jpg?s=1024x1024&w=is&k=20&c=eQ34tUBNVROZ-0-CNxjreiUYUt_5Y8o0Pspp1iTB6YM=",
+      "description": "A classic novel about the struggles and alienation of a teenage boy named Holden Caulfield."
+    },
+    {
+      "id": "2",
+      "book": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "slug": "to-kill-a-mockingbird",
+      "image": "https://plus.unsplash.com/premium_photo-1676057875510-f73d9d5950e0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Ym9va3N8ZW58MHx8MHx8fDA%3D",
+      "description": "A powerful novel addressing racial injustice and moral growth in the American South during the 1930s."
+    },
+    {
+      "id": "3",
+      "book": "1984",
+      "author": "George Orwell",
+      "slug": "1984",
+      "image": "https://media.istockphoto.com/id/1460007178/photo/library-books-on-table-and-background-for-studying-learning-and-research-in-education-school.jpg?s=1024x1024&w=is&k=20&c=cuzIXmvKHLpoGxGIft9zCiTw-jeL0Gjp7UNZau0MNkk=",
+
+      "description": "A dystopian novel exploring the consequences of a totalitarian society and the suppression of individual freedom."
+    },
+    {
+      "id": "4",
+      "book": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "slug": "the-great-gatsby",
+      "image": "https://media.istockphoto.com/id/1478130098/photo/kid-reading-book-for-learning-education-and-language-development-literature-or-story.webp?b=1&s=170667a&w=0&k=20&c=naU1px1AZMXxZ7w4N97J950-sLNzpYDTo1qBgvb77IY=",
+
+      "description": "A tale of the Roaring Twenties, capturing the allure and decadence of the American Dream through the life of Jay Gatsby."
+    },
+    {
+      "id": "5",
+      "book": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "slug": "pride-and-prejudice",
+      "image": "https://media.istockphoto.com/id/1495321240/photo/redhead-female-student-reading-a-book-in-library.webp?b=1&s=170667a&w=0&k=20&c=pBg9xrmVc77Ex1RsRowcjKkH9v8a8MRqDLvTzaYJWW0=",
+
+      "description": "A classic romantic novel exploring the themes of love, class, and societal expectations in 19th-century England."
+    },
+    {
+      "id": "6",
+      "book": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "slug": "the-hobbit",
+      "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGJvb2tzfGVufDB8fDB8fHww",
+
+      "description": "A fantasy adventure novel following the journey of Bilbo Baggins as he embarks on an epic quest with a group of dwarves."
+    },
+    {
+      "id": "7",
+      "book": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "slug": "harry-potter-and-the-sorcerers-stone",
+      "image": "https://media.istockphoto.com/id/1458805217/photo/a-book-left-open-in-the-classroom.jpg?s=1024x1024&w=is&k=20&c=U_gmzRnQxvLnDmGvkxEbyiAmVgNwyvothnDOdTSWAO4=",
+
+      "description": "The first book in the Harry Potter series, introducing the magical world and the young wizard Harry Potter."
+    },
+    {
+      "id": "8",
+      "book": "The Alchemist",
+      "author": "Paulo Coelho",
+      "slug": "the-alchemist",
+      "image": "https://media.istockphoto.com/id/1456438531/photo/man-reading-the-bible.webp?b=1&s=170667a&w=0&k=20&c=b0DwGOuHMvCOOQsfQhrzZ3CX1e5KxGChID1PmF08UuI=",
+
+      "description": "A philosophical novel following Santiago, a shepherd boy, on his quest to discover the meaning of life and fulfill his dreams."
+    },
+    {
+      "id": "9",
+      "book": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "slug": "the-lord-of-the-rings",
+      "image": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGJvb2tzfGVufDB8fDB8fHww",
+
+      "description": "An epic fantasy trilogy chronicling the journey to destroy the One Ring and defeat the dark lord Sauron."
+    },
+    {
+      "id": "10",
+      "book": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "author": "C.S. Lewis",
+      "slug": "the-lion-the-witch-and-the-wardrobe",
+      "image": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww",
+
+      "description": "The first book in the Chronicles of Narnia series, featuring the magical land of Narnia and the adventures of the Pevensie siblings."
+    }
+  ],
+  "author": [
+    { "id": "1", "name": "moe" },
+    { "id": "1", "name": "moe" },
+    { "id": "1", "name": "moe" }
+  ]
+}
